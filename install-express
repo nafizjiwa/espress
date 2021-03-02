@@ -1,0 +1,10 @@
+-Express webpage shows how to intall express on your computer (if you forget)         
+
+www.expressjs.com
+      -getting started
+            -installing
+                  -this will intall express and all the required nodes.
+                        - hence a new dependency will be addded 
+                              - ....look in the dependancy section of file package.json under:
+                              - "dependencies": { "express: and verson# should show"}
+            - Next require express (shown in the installing section of express)
